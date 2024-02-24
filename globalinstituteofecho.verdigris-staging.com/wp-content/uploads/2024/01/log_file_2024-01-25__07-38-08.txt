@@ -1,0 +1,27 @@
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://globalinstituteofecho.verdigris-staging.com
+Data file = /home/dh_cvgq8h/globalinstituteofecho.verdigris-staging.com/wp-content/uploads/2024/01/tutor-sample-course.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---ocdi/after_import---
+

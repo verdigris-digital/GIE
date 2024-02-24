@@ -1,0 +1,8 @@
+[18-Dec-2022 08:05:56 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mrsen/drivic.s7template.com/wp-content/themes/drivic/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mrsen/drivic.s7template.com/wp-content/themes/drivic/index.php on line 16
+[26-Dec-2022 18:54:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mrsen/drivic.s7template.com/wp-content/themes/drivic/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mrsen/drivic.s7template.com/wp-content/themes/drivic/index.php on line 16

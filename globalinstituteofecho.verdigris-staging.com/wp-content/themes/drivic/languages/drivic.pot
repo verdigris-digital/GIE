@@ -1,0 +1,873 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Drivic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-05 11:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.0.1\n"
+"X-Domain: drivic"
+
+#: comments.php:29
+msgid "% Comments"
+msgstr ""
+
+#: tutor/dashboard.php:79 tutor/student-public-profile.php:55
+#, php-format
+msgid "%d Ratings"
+msgstr ""
+
+#: tutor/dashboard.php:94
+#, php-format
+msgid "%s Add A New Course "
+msgstr ""
+
+#: tutor/dashboard.php:101
+#, php-format
+msgid "%s Become an instructor"
+msgstr ""
+
+#. %s location.
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: tutor/loop/course-continue.php:19 tutor/loop/course-price-edd.php:19
+#: tutor/loop/course-price-woocommerce.php:18 tutor/loop/course-price.php:18
+msgid "<i class=\"fa fa-shopping-cart\"></i>"
+msgstr ""
+
+#: inc/drivic_option.php:563
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/drivic_option.php:220
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/drivic_option.php:209 inc/drivic_option.php:214
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/drivic_option.php:435
+msgid "Add Call to Action Content"
+msgstr ""
+
+#: inc/drivic_option.php:429
+msgid "Add Call to Action Title"
+msgstr ""
+
+#: inc/drivic_option.php:453
+msgid "Add Copyright Text"
+msgstr ""
+
+#: inc/drivic_option.php:441
+msgid "Add Subscribe to Action Shortcode"
+msgstr ""
+
+#: functions.php:184
+msgid "Add widgets here to appear in your footer"
+msgstr ""
+
+#: functions.php:162 functions.php:173
+msgid "Add widgets here to appear in your sidebar"
+msgstr ""
+
+#: inc/drivic_functions.php:327
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/drivic_functions.php:112
+msgid "Archive for category"
+msgstr ""
+
+#: inc/drivic_functions.php:176
+msgid "Articles posted by"
+msgstr ""
+
+#: tutor/single/assignment/content.php:100
+msgid "Assignment answer form"
+msgstr ""
+
+#: tutor/single/assignment/content.php:117
+msgid "Attach assignment files"
+msgstr ""
+
+#: tutor/single/assignment/content.php:74
+msgid "Attachments"
+msgstr ""
+
+#: woocommerce/cart/cart.php:96
+msgid "Available on backorder"
+msgstr ""
+
+#: 404.php:41
+msgid "Back to hompage"
+msgstr ""
+
+#: inc/drivic_functions.php:21 inc/drivic_functions.php:47
+#: inc/drivic_functions.php:77
+msgid "Blog"
+msgstr ""
+
+#: functions.php:160
+msgid "Blog Sidebar"
+msgstr ""
+
+#: tutor/single/lesson/lesson_sidebar.php:42
+msgid "Browse Q&A"
+msgstr ""
+
+#: inc/drivic_option.php:434
+msgid "Call to Action Content"
+msgstr ""
+
+#: inc/drivic_option.php:428
+msgid "Call to Action Title"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Checkout"
+msgstr ""
+
+#: inc/drivic_functions.php:268
+msgid "Cmb2"
+msgstr ""
+
+#: template-parts/content-audio.php:19 template-parts/content-excerpt.php:19
+#: template-parts/content-gallery.php:19 template-parts/content-image.php:19
+#: template-parts/content-link.php:19 template-parts/content-video..php:19
+#: template-parts/content.php:19 template-parts/content.php:87
+msgid "Comment"
+msgstr ""
+
+#: tutor/single/course/complete_form.php:30
+msgid "Complete Course"
+msgstr ""
+
+#: tutor/single/lesson/complete_form.php:29
+msgid "Complete Lesson"
+msgstr ""
+
+#: inc/drivic_functions.php:273
+msgid "Contact Form 7"
+msgstr ""
+
+#: header-two.php:106 header.php:107
+msgid "Contact Us"
+msgstr ""
+
+#: inc/drivic_option.php:398
+msgid "Content"
+msgstr ""
+
+#: inc/drivic_option.php:404
+msgid "Content Two"
+msgstr ""
+
+#: tutor/single/course/continue-lesson.php:41
+#: tutor/single/course/course-enrolled-box.php:43
+msgid "Continue to lesson"
+msgstr ""
+
+#: inc/drivic_option.php:452
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:77
+msgid "Copyright © 2022 Drivic. All Right reserved."
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon:"
+msgstr ""
+
+#: tutor/single/course/lead-info.php:55
+#: tutor/single/course/enrolled/lead-info.php:58
+msgid "Course level"
+msgstr ""
+
+#: functions.php:171
+msgid "Course Sidebar"
+msgstr ""
+
+#: tutor/single/assignment/content.php:64
+msgid "Description"
+msgstr ""
+
+#: inc/drivic_option.php:178
+msgid "Documentation"
+msgstr ""
+
+#: inc/drivic_option.php:351
+msgid "Dribble URL"
+msgstr ""
+
+#. Name of the theme
+msgid "Drivic"
+msgstr ""
+
+#. Description of the theme
+msgid "Drivic - Online Driving Courses WordPress Theme"
+msgstr ""
+
+#: inc/drivic_functions.php:323
+msgid "Drivic Demo Data"
+msgstr ""
+
+#: inc/drivic_functions.php:245
+msgid "drivic Elementor Addons"
+msgstr ""
+
+#: inc/drivic_option.php:77 inc/drivic_option.php:78
+msgid "Drivic Options"
+msgstr ""
+
+#: inc/drivic_functions.php:236
+msgid "Drivic Post Type"
+msgstr ""
+
+#: inc/drivic_option.php:300
+msgid "Drivic Social"
+msgstr ""
+
+#: tutor/dashboard/registration.php:68 tutor/dashboard/registration.php:71
+msgid "E-Mail"
+msgstr ""
+
+#: page.php:73
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. Name of the template
+msgid "EL Page"
+msgstr ""
+
+#: inc/drivic_functions.php:263
+msgid "Elementor"
+msgstr ""
+
+#: inc/drivic_option.php:286
+msgid "Email"
+msgstr ""
+
+#: tutor/single/course/add-to-cart.php:60
+msgid "Enroll Now"
+msgstr ""
+
+#: tutor/single/course/lead-info.php:61
+#: tutor/single/course/enrolled/lead-info.php:64
+msgid "Enrolled"
+msgstr ""
+
+#: inc/drivic_option.php:190
+msgid "Extensions"
+msgstr ""
+
+#: inc/drivic_option.php:309
+msgid "Facebook URL"
+msgstr ""
+
+#: tutor/single/assignment/content.php:172
+msgid "Failed"
+msgstr ""
+
+#: tutor/dashboard/registration.php:35 tutor/dashboard/registration.php:38
+msgid "First Name"
+msgstr ""
+
+#: tutor/student-public-profile.php:72
+msgid "Follow me"
+msgstr ""
+
+#: inc/drivic_option.php:446
+msgid "Footer bg"
+msgstr ""
+
+#: inc/drivic_option.php:419
+msgid "Footer Option"
+msgstr ""
+
+#: functions.php:182
+msgid "Footer Widgets"
+msgstr ""
+
+#: tutor/loop/course-continue.php:20 tutor/loop/course-price-edd.php:20
+#: tutor/loop/course-price-woocommerce.php:19 tutor/loop/course-price.php:19
+msgid "Free"
+msgstr ""
+
+#: inc/drivic_option.php:242
+msgid "General Option"
+msgstr ""
+
+#: functions.php:122
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/drivic_option.php:381
+msgid "Hamberger Menu Show"
+msgstr ""
+
+#: inc/drivic_option.php:359
+msgid "Header Option"
+msgstr ""
+
+#: inc/drivic_option.php:389
+msgid "Header Right Side"
+msgstr ""
+
+#. Name of the template
+msgid "Header Three"
+msgstr ""
+
+#: inc/drivic_option.php:271
+msgid "Header Top"
+msgstr ""
+
+#. Name of the template
+msgid "Header Two"
+msgstr ""
+
+#: inc/drivic_functions.php:99
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://s7template.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://s7template.com/wp/drivic"
+msgstr ""
+
+#: inc/drivic_option.php:321
+msgid "Instagram URL"
+msgstr ""
+
+#: tutor/single/assignment/content.php:219
+msgid "Instructor Note"
+msgstr ""
+
+#: 404.php:39
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: template-parts/content-none.php:10
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: tutor/dashboard/registration.php:45 tutor/dashboard/registration.php:48
+msgid "Last Name"
+msgstr ""
+
+#: tutor/single/course/lead-info.php:73
+#: tutor/single/course/enrolled/lead-info.php:76
+msgid "Last Update"
+msgstr ""
+
+#: comments.php:59
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:80
+msgid "Leave a comment..."
+msgstr ""
+
+#: tutor/single-preview-lesson.php:49 tutor/single/lesson/lesson_sidebar.php:40
+msgid "Lesson List"
+msgstr ""
+
+#: inc/drivic_option.php:327
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/drivic_option.php:292
+msgid "Location"
+msgstr ""
+
+#: inc/drivic_functions.php:278
+msgid "mailchimp for wp"
+msgstr ""
+
+#: functions.php:52
+msgid "Main Menu"
+msgstr ""
+
+#: inc/drivic_option.php:368
+msgid "Main Menu Logo"
+msgstr ""
+
+#: tutor/single/course/material-includes.php:27
+msgid "Material Includes"
+msgstr ""
+
+#: tutor/single/assignment/content.php:55
+msgid "Minimum Pass Points : "
+msgstr ""
+
+#: single.php:48
+msgid "Next Post"
+msgstr ""
+
+#: comments.php:29
+msgid "No Comment"
+msgstr ""
+
+#: tutor/single/assignment/content.php:44
+msgid "No limit"
+msgstr ""
+
+#: inc/drivic_functions.php:179
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/drivic_functions.php:293
+msgid "One Click Demo Import"
+msgstr ""
+
+#: comments.php:29
+msgid "One Comment"
+msgstr ""
+
+#: 404.php:37
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: page.php:59 inc/drivic_functions.php:188
+msgid "Page"
+msgstr ""
+
+#. %: Page number.
+#: page.php:62
+msgid "Page %"
+msgstr ""
+
+#. Name of the template
+msgid "Page Cart"
+msgstr ""
+
+#. Name of the template
+msgid "Page Checkout"
+msgstr ""
+
+#: inc/drivic_option.php:257
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/drivic_option.php:258
+msgid "Page Title Background Image"
+msgstr ""
+
+#: inc/drivic_option.php:263
+msgid "Page Title Hide"
+msgstr ""
+
+#: template-parts/content-audio.php:32 template-parts/content-excerpt.php:32
+#: template-parts/content-gallery.php:32 template-parts/content-image.php:32
+#: template-parts/content-link.php:32 template-parts/content-none.php:18
+#: template-parts/content-video..php:32 template-parts/content.php:32
+msgid "Pages:"
+msgstr ""
+
+#: tutor/single/assignment/content.php:166
+msgid "Passed"
+msgstr ""
+
+#: tutor/dashboard/registration.php:81 tutor/dashboard/registration.php:84
+msgid "Password"
+msgstr ""
+
+#: tutor/dashboard/registration.php:94
+msgid "Password Confirmation"
+msgstr ""
+
+#: tutor/dashboard/registration.php:91
+msgid "Password confirmation"
+msgstr ""
+
+#: inc/drivic_option.php:280
+msgid "Phone Number"
+msgstr ""
+
+#: inc/drivic_option.php:333
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/drivic_option.php:352
+msgid "Please Add Your Dribble URL"
+msgstr ""
+
+#: inc/drivic_option.php:287
+msgid "Please Add Your Email Address"
+msgstr ""
+
+#: inc/drivic_option.php:310
+msgid "Please Add Your Facebook URL"
+msgstr ""
+
+#: inc/drivic_option.php:421
+msgid "Please Add Your Footer Option"
+msgstr ""
+
+#: inc/drivic_option.php:244
+msgid "Please Add Your General Option"
+msgstr ""
+
+#: inc/drivic_option.php:361
+msgid "Please Add Your Header Option"
+msgstr ""
+
+#: inc/drivic_option.php:391
+msgid "Please Add Your Header Right Side"
+msgstr ""
+
+#: inc/drivic_option.php:273
+msgid "Please Add Your Header Top Option"
+msgstr ""
+
+#: inc/drivic_option.php:322
+msgid "Please Add Your Instagram URL"
+msgstr ""
+
+#: inc/drivic_option.php:328
+msgid "Please Add Your Linkedin URL"
+msgstr ""
+
+#: inc/drivic_option.php:293
+msgid "Please Add Your location"
+msgstr ""
+
+#: inc/drivic_option.php:281
+msgid "Please Add Your Phone Number"
+msgstr ""
+
+#: inc/drivic_option.php:334
+msgid "Please Add Your Pinterest URL"
+msgstr ""
+
+#: inc/drivic_option.php:399
+msgid "Please Add Your Right Bar Content"
+msgstr ""
+
+#: inc/drivic_option.php:405
+msgid "Please Add Your Right Bar Content Two"
+msgstr ""
+
+#: inc/drivic_option.php:346
+msgid "Please Add Your Skype URL"
+msgstr ""
+
+#: inc/drivic_option.php:302
+msgid "Please Add Your Social Option"
+msgstr ""
+
+#: inc/drivic_option.php:411
+msgid "Please Add Your Subscribe Shortcode"
+msgstr ""
+
+#: inc/drivic_option.php:316
+msgid "Please Add Your Twitter URL"
+msgstr ""
+
+#: inc/drivic_option.php:340
+msgid "Please Add Your Youtube URL"
+msgstr ""
+
+#: inc/drivic_option.php:382
+msgid "Please Check and Hamberger Menu Show"
+msgstr ""
+
+#: inc/drivic_option.php:264
+msgid "Please Check and Page Title Hide"
+msgstr ""
+
+#: inc/drivic_option.php:376
+msgid "Please Check and show header Search Icon"
+msgstr ""
+
+#: inc/drivic_option.php:252
+msgid "Please Check and show Preloader"
+msgstr ""
+
+#: tutor/single/course/add-to-cart-woocommerce.php:33
+msgid "Please make sure that your product exists and valid for this course"
+msgstr ""
+
+#: comments.php:60
+msgid "Post Comment"
+msgstr ""
+
+#: inc/drivic_functions.php:171
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/drivic_option.php:251
+msgid "Preloader Show"
+msgstr ""
+
+#: single.php:47
+msgid "Previous Post"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:101
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:81
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:107
+msgid "Quantity"
+msgstr ""
+
+#: template-parts/content-audio.php:94 template-parts/content-excerpt.php:94
+#: template-parts/content-gallery.php:94 template-parts/content-image.php:94
+#: template-parts/content-link.php:94 template-parts/content-video..php:94
+#: template-parts/content.php:99
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/drivic_functions.php:254
+msgid "Redux"
+msgstr ""
+
+#: tutor/dashboard/registration.php:117
+msgid "Register"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: inc/drivic_functions.php:217
+msgid "Reply"
+msgstr ""
+
+#. Author of the theme
+msgid "s7template"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/drivic_option.php:375
+msgid "Search Icon Show"
+msgstr ""
+
+#: inc/drivic_functions.php:115
+msgid "Search results for"
+msgstr ""
+
+#: header-two.php:82 header.php:83
+msgid "Search..."
+msgstr ""
+
+#: inc/drivic_option.php:562
+msgid "Section via hook"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: inc/drivic_option.php:345
+msgid "Skype URL"
+msgstr ""
+
+#: tutor/single/assignment/content.php:237
+msgid "Start assignment submit"
+msgstr ""
+
+#: tutor/single/course/course-enrolled-box.php:45
+msgid "Start Course"
+msgstr ""
+
+#: comments.php:84
+msgid "Submit"
+msgstr ""
+
+#: tutor/single/assignment/content.php:134
+msgid "Submit Assignment"
+msgstr ""
+
+#: inc/drivic_option.php:410
+msgid "Subscribe Shortcode"
+msgstr ""
+
+#: inc/drivic_option.php:440
+msgid "Subscribe to Action Shortcode"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:31
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:129
+msgid "Subtotal"
+msgstr ""
+
+#: inc/drivic_option.php:184
+msgid "Support"
+msgstr ""
+
+#: template-parts/content-audio.php:49 template-parts/content-excerpt.php:49
+#: template-parts/content-gallery.php:49 template-parts/content-image.php:49
+#: template-parts/content-link.php:49 template-parts/content-video..php:49
+#: template-parts/content.php:49
+msgid "Tags: "
+msgstr ""
+
+#: inc/drivic_option.php:208
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/drivic_option.php:213
+msgid "Theme Information 2"
+msgstr ""
+
+#: tutor/single/assignment/content.php:43
+msgid "Time Duration : "
+msgstr ""
+
+#: tutor/single/course/course-topics.php:30
+msgid "Topics for this course"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98 woocommerce/cart/cart-totals.php:99
+msgid "Total"
+msgstr ""
+
+#: tutor/single/course/lead-info.php:67
+#: tutor/single/course/enrolled/lead-info.php:70
+msgid "Total Hour"
+msgstr ""
+
+#: tutor/single/assignment/content.php:51
+msgid "Total Points : "
+msgstr ""
+
+#: inc/drivic_functions.php:283
+msgid "Tutor"
+msgstr ""
+
+#: inc/drivic_option.php:315
+msgid "Twitter URL"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid "Update cart"
+msgstr ""
+
+#: tutor/single/assignment/content.php:123
+msgid "Upload file"
+msgstr ""
+
+#: inc/drivic_option.php:447
+msgid "Upload Your Footer bg"
+msgstr ""
+
+#: inc/drivic_option.php:369
+msgid "Upload Your Main Menu Logo"
+msgstr ""
+
+#: tutor/dashboard/registration.php:58 tutor/dashboard/registration.php:61
+msgid "User Name"
+msgstr ""
+
+#: tutor/single/course/lead-info.php:43
+#: tutor/single/course/enrolled/lead-info.php:46
+msgid "Web Development"
+msgstr ""
+
+#: tutor/single/course/course-benefits.php:31
+msgid "What Will I Learn?"
+msgstr ""
+
+#: inc/drivic_functions.php:288
+msgid "woocommerce"
+msgstr ""
+
+#: tutor/single/assignment/content.php:110
+msgid "Write your answer briefly"
+msgstr ""
+
+#: tutor/single/course/course-enrolled-box.php:67
+#, php-format
+msgid "You have been enrolled on %s."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: tutor/single/assignment/content.php:160
+#, php-format
+msgid "You received %s points out of %s"
+msgstr ""
+
+#: tutor/single/assignment/content.php:186
+msgid "Your Answers"
+msgstr ""
+
+#: comments.php:70
+msgid "Your Email"
+msgstr ""
+
+#: tutor/single/assignment/content.php:162
+msgid "Your Grade is "
+msgstr ""
+
+#: comments.php:65
+msgid "Your Name"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: tutor/single/assignment/content.php:197
+msgid "Your uploaded file(s)"
+msgstr ""
+
+#: inc/drivic_option.php:339
+msgid "Youtube URL"
+msgstr ""
